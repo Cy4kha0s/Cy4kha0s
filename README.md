@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cy4kha0s
-- 👀 I’m interested in building websites
-- 🌱 I’m currently a beginner in the field of web developer
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently a beginner in the field of Cyber Security.
 
 
 <!---
